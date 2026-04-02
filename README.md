@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sanchit%20Jadhav&fontAlign=50&fontAlignY=38&color=0:020617,25:0f172a,50:0ea5e9,75:22d3ee,100:38bdf8&fontColor=e0f2fe&desc=Full-Stack%20Developer%20%7C%20Modern%20Web%20Interfaces%20%7C%20Clean%20Builds&descAlign=50&descAlignY=58&animation=fadeIn" alt="custom banner header" />
 </div>
 
-# <h1 align="center">Hey &#128075; What's Up?</h1>
+# <h1 align="center">Hey &#128075; Hello, I hope you're doing well.?</h1>
 
 <h3 align="center">Sanchit Jadhav | Full-Stack Developer crafting fast, polished, modern web experiences</h3>
 
