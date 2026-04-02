@@ -113,7 +113,7 @@ I enjoy building modern web experiences that feel smooth, look sharp, and stay m
 </div>
 
 ```txt
-Portfolio       : Personal portfolio site showcasing your work and web presence
+Portfolio       : Personal portfolio site showcasing my work and web presence
 PhysioTherapy-  : Physiotherapy session tracker built as a BCA final-year project
 cafe-website    : Branded cafe experience site with a live Vercel deployment
 SanchitJadhav007: GitHub profile repository powering your public profile README
