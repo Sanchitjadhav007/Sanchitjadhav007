@@ -15,41 +15,41 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="amazonwebservices logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="60" alt="codepen logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="60" alt="codepen logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="60" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="60" alt="unrealengine logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
 </div>
 
 ###
@@ -110,30 +110,12 @@ I enjoy building modern web experiences that feel smooth, look sharp, and stay m
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sanchitjadhav007/portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchitjadhav007&repo=portfolio&theme=transparent&title_color=00F7FF&text_color=E5F9FF&icon_color=FF2D95&border_color=00F7FF" alt="portfolio repo card" />
-  </a>
-  <a href="https://github.com/sanchitjadhav007/PhysioTherapy-" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchitjadhav007&repo=PhysioTherapy-&theme=transparent&title_color=00F7FF&text_color=E5F9FF&icon_color=FF2D95&border_color=00F7FF" alt="PhysioTherapy repo card" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/sanchitjadhav007/cafe-website" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchitjadhav007&repo=cafe-website&theme=transparent&title_color=00F7FF&text_color=E5F9FF&icon_color=FF2D95&border_color=00F7FF" alt="cafe-website repo card" />
-  </a>
-  <a href="https://github.com/sanchitjadhav007/SanchitJadhav007" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchitjadhav007&repo=SanchitJadhav007&theme=transparent&title_color=00F7FF&text_color=E5F9FF&icon_color=FF2D95&border_color=00F7FF" alt="profile repo card" />
-  </a>
-</div>
-
-```txt
-Portfolio       : Personal portfolio site showcasing my work and web presence
-PhysioTherapy-  : Physiotherapy session tracker built as a BCA final-year project
-cafe-website    : Branded cafe experience site with a live Vercel deployment
-SanchitJadhav007: GitHub profile repository powering your public profile README
-```
+| Project | What It Is | Links |
+| --- | --- | --- |
+| `portfolio` | Personal portfolio site showcasing my work and web presence | [Repo](https://github.com/sanchitjadhav007/portfolio) / [Live](https://sanchitjadhav007.github.io/portfolio/) |
+| `PhysioTherapy-` | Physiotherapy session tracker built as a BCA final-year project | [Repo](https://github.com/sanchitjadhav007/PhysioTherapy-) / [Live](https://physio-therapy-blue.vercel.app) |
+| `cafe-website` | Branded cafe experience site with a live Vercel deployment | [Repo](https://github.com/sanchitjadhav007/cafe-website) / [Live](https://cafe-website-iota-six.vercel.app) |
+| `SanchitJadhav007` | GitHub profile repository powering your public profile README | [Repo](https://github.com/sanchitjadhav007/SanchitJadhav007) |
 
 ###
 
