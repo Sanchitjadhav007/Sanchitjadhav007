@@ -4,7 +4,7 @@
 
 # <h1 align="center">Hey &#128075; Hello, I hope you're doing well.?</h1>
 
-<h3 align="center">Sanchit Jadhav | Full-Stack Developer crafting fast, polished, modern web experiences</h3>
+<h3 align="center">Sanchit Jadhav |  Developer crafting fast, polished, modern web experiences</h3>
 
 ###
 
