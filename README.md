@@ -84,10 +84,11 @@
 ```txt
 Name        : Sanchit Jadhav
 Focus       : Full-Stack Web Development
-Core Stack  : TypeScript, Next.js, Tailwind CSS, GraphQL
-Also Using  : Go, Rust, NestJS, Python, AWS
+Skills      : C, C++, Java, JavaScript, HTML, CSS, MongoDB
+Tools       : Git, GitHub, VS Code, Vercel
+Level       : Intermediate
 Portfolio   : sanchitjadhav007.github.io/portfolio
-Status      : Building clean UI, strong backend systems, and better developer workflows
+Status      : BCA student passionate about web development, currently learning Full-Stack Development and building projects to strengthen my programming and problem-solving skills.
 ```
 
 I enjoy building modern web experiences that feel smooth, look sharp, and stay maintainable as projects grow. My work sits at the intersection of clean frontend design, practical backend engineering, and thoughtful product building.
@@ -95,11 +96,11 @@ I enjoy building modern web experiences that feel smooth, look sharp, and stay m
 ## Current Vibe
 
 ```txt
-> Shipping responsive interfaces
-> Exploring scalable backend patterns
-> Improving UI systems and component workflows
-> Turning ideas into polished portfolio-ready projects
-> Learning by building, refining, and shipping
+> Building responsive web interfaces with HTML, CSS, and JavaScript
+> Learning Full-Stack Development with Java and MongoDB
+> Improving programming and problem-solving skills through projects
+> Creating portfolio-ready applications and practical software solutions
+> Continuously learning, building, and refining real-world projects
 ```
 
 ## Featured Projects
