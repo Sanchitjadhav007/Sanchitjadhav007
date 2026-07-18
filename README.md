@@ -109,7 +109,7 @@ I enjoy building modern web experiences that feel smooth, look sharp, and stay m
 | --- | --- | --- |
 | `portfolio` | Personal portfolio site showcasing my work and web presence | [Repo](https://github.com/sanchitjadhav007/portfolio) / [Live](https://sanchitjadhav007.github.io/portfolio/) |
 | `PhysioTherapy-` | Physiotherapy session tracker built as a BCA final-year project | [Repo](https://github.com/sanchitjadhav007/PhysioTherapy-) / [Live](https://physio-therapy-blue.vercel.app) |
-| `cafe-website` | Branded cafe experience site with a live Vercel deployment | [Repo](https://github.com/sanchitjadhav007/cafe-website) / [Live](https://cafe-website-main-theta.vercel.app/index.html) |
+| `cafe-website` | Branded cafe experience site with a live Vercel deployment | [Repo](https://github.com/sanchitjadhav007/cafe-website) / [Live](https://sanchitjadhav007.github.io/cafe-website/) |
 | `SanchitJadhav007` | GitHub profile repository powering your public profile README | [Repo](https://github.com/sanchitjadhav007/SanchitJadhav007) |
 
 ###
